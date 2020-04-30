@@ -211,7 +211,7 @@ Open <a href="http://localhost:4000" target="_blank" data-proofer-ignore>http://
 and have a look through your blog posts.
 -->
 브라우저로 <a href="http://localhost:4000" target="_blank" data-proofer-ignore>http://localhost:4000</a>
-를 열고 블로그 포스트들을 확인합니다.
+을 열고 블로그 포스트들을 확인합니다.
 
 <!--
 Next we'll focus on creating a page for each post author.

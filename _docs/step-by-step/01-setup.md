@@ -54,7 +54,7 @@ bundle init
 <!--
 Now edit the `Gemfile` and add jekyll as a dependency:
 -->
-이제 `Gemfile` 을 열어 jekyll 을 의존요소로 추가합니다:
+이제 `Gemfile` 을 열어 Jekyll 을 의존요소로 추가합니다:
 
 ```ruby
 gem "jekyll"
@@ -166,6 +166,6 @@ Well, you might be thinking what's the point in this? Jekyll just copied an
 HTML file from one place to another. Well patience young grasshopper, there's
 still much to learn!
 -->
-음.. 이런 생각이 들 수도 있어요.<br/>
-이런걸 왜 하고 있지? Jekyll 이 한 일이라곤 HTML 파일을 다른 위치로 그냥 복사한 것 뿐이네.<br/>
-자.. 참을성이 필요한 때입니다. 아직 배울게 많아요!
+이게 다 무슨 소용이지? Jekyll 이 한 거라곤 HTML 파일을 다른 곳에다 그냥 복사한 것
+뿐이네... 라는 생각이 들 수도 있어요.<br/>
+인내하시오 어린 제다이여. 배울 것이 아직 많이 남아 있습니다!

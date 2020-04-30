@@ -113,7 +113,7 @@ Now it's your turn, change the Hello World! on your page to output as lowercase:
 <!--
 To get our changes processed by Jekyll we need to add [front matter](../03-front-matter/) to the top of the page:
 -->
-Jekyll 이 위 내용을 처리하게 하려면 [머리말](../03-front-matter/) 를 페이지 맨 처음에 추가해야 합니다:
+Jekyll 이 위 내용을 처리하게 하려면 [머리말](../03-front-matter/)을 페이지 맨 처음에 추가해야 합니다:
 
 <!--
 ```yaml

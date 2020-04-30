@@ -86,7 +86,7 @@ Open <a href="http://localhost:4000" target="_blank" data-proofer-ignore>http://
 in your browser and try switching between the pages.
 -->
 브라우저에서 <a href="http://localhost:4000" target="_blank" data-proofer-ignore>http://localhost:4000</a>
-를 열어 페이지 사이를 이동해봅니다.
+을 열어 페이지 사이를 이동해봅니다.
 
 <!--
 ## Current page highlighting

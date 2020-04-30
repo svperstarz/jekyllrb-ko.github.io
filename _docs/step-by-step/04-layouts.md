@@ -140,7 +140,7 @@ Open <a href="http://localhost:4000/about.html" target="_blank" data-proofer-ign
 in your browser and view your new page.
 -->
 브라우저에서 <a href="http://localhost:4000/about.html" target="_blank" data-proofer-ignore>http://localhost:4000/about.html</a>
-를 열어 새 페이지를 확인합니다.
+을 열어 새 페이지를 확인합니다.
 
 <!--
 Congratulations, you now have a two page website! But how do you
